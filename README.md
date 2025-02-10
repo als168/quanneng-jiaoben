@@ -18,14 +18,17 @@
 >Rocky
 ***
 
+###第一次创建脚本使用下面的
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/kejilion/sh/main/kejilion.sh)
+```
+
 ### 一键脚本
 ```bash
 bash <(curl -sL kejilion.sh)
 ```
 ***
 
-### 觉得脚本还可以USTD TRC20打赏
-![Snipaste_2024-01-17_18-01-52](https://github.com/kejilion/sh/assets/131984541/98cf2762-1bfb-4c33-af10-af0eda29fc20)
 
 ***
 
